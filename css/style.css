@@ -51,7 +51,7 @@ input[type="button"]::focus {
 body {
   background-size: auto auto;
   background-color: #fff;
-  background-image: #fcfae3;
+  background-image: #e3fcf9;
   /* 以上の3行が背景のストライプです。
      background-colorがベース色、background-imageが縞の色を制御しています。
      ストライプの色や太さを変えたい場合は、
@@ -875,6 +875,7 @@ blockquote {
     display: none;
   }
 }
+
 
 
 
