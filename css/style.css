@@ -78,7 +78,7 @@ dl dt {
 
 a {
   text-decoration: none;
-  color: #E9DC69;
+  color: #d7c447;
   /* リンクの色 */
 }
 
@@ -139,7 +139,7 @@ h2:after {
   height: 5px;
   /* ここから見出しの下線のストライプ */
   background-size: auto auto;
-  background-color: #d7c447;
+  background-color: #E9DC69;
   background-image: repeating-linear-gradient(135deg, transparent, transparent 5px, white 5px, white 6px);
   /* ここまで見出しの下線のストライプ */
 }
@@ -875,6 +875,7 @@ blockquote {
     display: none;
   }
 }
+
 
 
 
