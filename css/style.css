@@ -13,7 +13,7 @@ ul {
   list-style: none;
 }
 
-hi {
+h1 {
    font-family: 'Poiret One';
 }
    
@@ -879,6 +879,7 @@ blockquote {
     display: none;
   }
 }
+
 
 
 
