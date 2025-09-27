@@ -11,6 +11,7 @@
 ol,
 ul {
   list-style: none;
+  font-family: 'Poiret One';
 }
    
 h1,
@@ -81,6 +82,7 @@ a {
   text-decoration: none;
   color: #d7c447;
   /* リンクの色 */
+  font-family: 'Poiret One';
 }
 
 a:hover {
@@ -876,6 +878,7 @@ blockquote {
     display: none;
   }
 }
+
 
 
 
