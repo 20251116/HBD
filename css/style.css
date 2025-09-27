@@ -50,7 +50,7 @@ input[type="button"]::focus {
    ========================================== */
 body {
   background-size: auto auto;
-  background-color: #d7c447;
+  background-color: #3D2B30;
   background-image: repeating-linear-gradient(135deg, transparent, transparent 5px, rgba(0, 0, 0, 0.26) 5px, rgba(0, 0, 0, 0.26) 6px);
   /* 以上の3行が背景のストライプです。
      background-colorがベース色、background-imageが縞の色を制御しています。
@@ -78,7 +78,7 @@ dl dt {
 
 a {
   text-decoration: none;
-  color: #eddd4a;
+  color: #b8ab39;
   /* リンクの色 */
 }
 
@@ -139,7 +139,7 @@ h2:after {
   height: 5px;
   /* ここから見出しの下線のストライプ */
   background-size: auto auto;
-  background-color: #ebe3de;
+  background-color: #d7c447;
   background-image: repeating-linear-gradient(135deg, transparent, transparent 5px, white 5px, white 6px);
   /* ここまで見出しの下線のストライプ */
 }
@@ -875,4 +875,5 @@ blockquote {
     display: none;
   }
 }
+
 
