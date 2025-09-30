@@ -885,6 +885,15 @@ blockquote {
   border: 0;
 }
 
+.video-wrap {
+  position: relative;
+  width: 100%;
+  max-width: 800px;   /* 好きな最大幅 */
+  margin: 0 auto;
+  aspect-ratio: 16/9; /* ← 高さを自動で16:9にする */
+}
+
+
 
 
 
